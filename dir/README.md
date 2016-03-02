@@ -13,5 +13,7 @@ sds
 程序员在编写mapper.xml(映射文件)和mapper.java需要遵循一个开发规范：
 
 \begin{align*}
+
 \overline{X}   - sample mean
+
 \end{align*}
